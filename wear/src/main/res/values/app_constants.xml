@@ -1,0 +1,12 @@
+<resources>
+    <item type="integer" name="timer_wait_max" format="integer">1000</item>
+    <item type="integer" name="dist_threshold_max" format="integer">20</item>
+    <item type="integer" name="timer_wait_default" format="integer">200</item>
+    <item type="integer" name="dist_threshold_default" format="integer">10</item>
+    <string name="timer_wait_preference_key">TIMER_WAIT_PREFERENCE_KEY</string>
+    <string name="dist_threshold_preference_key">DIST_THRESHOLD_PREFERENCE_KEY</string>
+
+    <item type="integer" name="touch_circle_radius" format="integer">10</item>
+
+    <item type="integer" name="recommendation_max_dist" format="integer">100</item>
+</resources>
